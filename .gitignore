@@ -1,10 +1,10 @@
 .venv/
 .env
+__pycache__/
+*.pyc
 
 atcoder/*
-!atcoder/
 codeforces/*
-!codeforces/
 
 luogu/*
 !luogu/

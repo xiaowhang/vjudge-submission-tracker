@@ -1,0 +1,9 @@
+[project]
+name = "vjudge-submission-tracker"
+version = "1.0.0"
+description = "从 VJudge 批量获取账号在 OJ 的提交数据"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.32",
+    "python-dotenv>=1.0",
+]
